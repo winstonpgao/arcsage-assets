@@ -28,4 +28,3 @@ Austrump Glen remains responsible for the way we handle your personal informatio
 
 You can contact us at austrump@arcsage.com.au if you have questions about how we use AI or if you wish to exercise your privacy rights.
 
-Privacy and AI notice: https://privacy.arcsage.com.au | Contact: austrump@arcsage.com.au
