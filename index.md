@@ -1,17 +1,17 @@
-### Austrump Glen buyer qualifier  
+### Austrump Glen Virtual Assistant  
 ### AI assistance, privacy and advice disclaimer
 
-The Austrump Glen buyer qualifier is a virtual assistant service that helps our team review buyer enquiries and draft replies.  
+The Austrump Glen Virtual Assistant is a virtual assistant service that helps our team review buyer enquiries and draft replies.  
 It is operated by ARCSAGE TECHNOLOGY PTY LTD for AUSTRUMP GLEN PTY LTD.
 
-The qualifier uses artificial intelligence tools on Google Cloud, including Gemini enterprise services.  
+The assistant uses artificial intelligence tools on Google Cloud, including Gemini enterprise services.  
 We host our core client records on Google Cloud in Australia, including the Melbourne region, under our Google Cloud customer agreements.
 
-When we process an enquiry we may send parts of your message to Google Gemini services so that the system can suggest a reply or update our internal buyer readiness score. For some Gemini services the processing may take place on Google Cloud global infrastructure rather than only within one Australian region. Under Google Cloud’s enterprise data protection terms, customer prompts and outputs are treated as customer data, remain owned and controlled by the customer, and are not used to train public models without the customer’s permission.
+When we process an enquiry we may send parts of your message to Google Gemini services so that the system can suggest a reply or update our internal buyer readiness score. For some Gemini services the processing may take place on Google Cloud global infrastructure rather than only within one Australian region. Under Google Cloud enterprise data protection commitments, customer prompts and outputs are treated as customer data, remain owned and controlled by the customer, and are not used to train public models without the customer’s permission. Further information about how Gemini for Google Cloud uses and protects customer data is available from Google at [Gemini for Google Cloud – Data Governance](https://cloud.google.com/gemini/docs/discover/data-governance).
 
 We do not sell your personal information. We do not use your enquiries to train public AI models.
 
-We design our system so that it does not need highly sensitive information in order to qualify buyers.  
+We design our system so that it does not need highly sensitive information in order to assist buyers.  
 Please do not include the following in your enquiry unless we specifically ask for it and provide a secure channel:
 
 * passwords or one time codes  
@@ -20,10 +20,12 @@ Please do not include the following in your enquiry unless we specifically ask f
 * detailed medical or health information  
 * information about criminal history that is not directly relevant to a property transaction  
 
-If you choose to provide this type of information in an email, it may still be captured in our buyer records and processed by our AI assisted tools for the limited purpose of assessing your enquiry and preparing our response. We take reasonable steps to protect that information from misuse, loss and unauthorised access or disclosure, consistent with our obligations under the Privacy Act 1988 and the Australian Privacy Principles, including requirements for security and any cross border disclosure.
+If you choose to provide this type of information in an email, it may still be captured in our buyer records and processed by our AI assisted tools for the limited purpose of assessing your enquiry and preparing our response. We take reasonable steps to protect that information from misuse, loss and unauthorised access or disclosure, consistent with our obligations under the Privacy Act 1988 (Cth) and the Australian Privacy Principles, including requirements for security and any cross border disclosure. Our internal governance of AI and privacy is informed by guidance from the Office of the Australian Information Commissioner on the use of commercially available AI products.
 
-Use of the buyer qualifier does not replace contact with a licensed real estate professional and does not by itself create a client adviser relationship. Content produced by the virtual assistant is general information only. It may not be complete, accurate or up to date and it does not take your full personal circumstances into account. It is not legal, financial, tax or investment advice. You should seek your own professional advice before you make decisions about buying, selling or financing property.
+Use of the Austrump Glen Virtual Assistant does not replace contact with a licensed real estate professional and does not by itself create a client adviser relationship. Content produced by the virtual assistant is general information only. It may not be complete, accurate or up to date and it does not take your full personal circumstances into account. It is not legal, financial, tax or investment advice. You should seek your own professional advice before you make decisions about buying, selling or financing property.
 
-Austrump Glen remains responsible for the way we handle your personal information, even when ARCSAGE TECHNOLOGY PTY LTD and Google Cloud provide technology services to us. Our use of AI is intended to support our staff, not replace our privacy obligations. Nothing in this section limits any rights you have under the Privacy Act 1988 or the Australian Consumer Law.
+Austrump Glen remains responsible for the way we handle your personal information, even when ARCSAGE TECHNOLOGY PTY LTD and Google Cloud provide technology services to us. Our use of AI is intended to support our staff, not replace our privacy obligations. Nothing in this section limits any rights you have under the Privacy Act 1988 (Cth) or the Australian Consumer Law.
 
 You can contact us at austrump@arcsage.com.au if you have questions about how we use AI or if you wish to exercise your privacy rights.
+
+Privacy and AI notice: https://privacy.arcsage.com.au | Contact: austrump@arcsage.com.au
