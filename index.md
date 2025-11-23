@@ -1,5 +1,3 @@
-### Austrump Glen Virtual Assistant – Privacy and AI Notice (FINAL)
-
 ### Austrump Glen Virtual Assistant
 ### AI assistance, privacy and advice disclaimer
 
