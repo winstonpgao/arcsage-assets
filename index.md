@@ -1,30 +1,28 @@
-### Austrump Glen Virtual Assistant  
+### Austrump Glen Virtual Assistant – Privacy and AI Notice (FINAL)
+
+### Austrump Glen Virtual Assistant
 ### AI assistance, privacy and advice disclaimer
 
-The Austrump Glen Virtual Assistant is a virtual assistant service that helps our team review buyer enquiries and draft replies.  
-It is operated by ARCSAGE TECHNOLOGY PTY LTD for AUSTRUMP GLEN PTY LTD.
+The Austrump Glen Virtual Assistant is an automated assistant that helps our team review buyer enquiries and prepare draft replies. It is operated by ARCSAGE TECHNOLOGY PTY LTD on behalf of AUSTRUMP GLEN PTY LTD.
 
-The assistant uses artificial intelligence tools on Google Cloud, including Gemini enterprise services.  
-We host our core client records on Google Cloud in Australia, including the Melbourne region, under our Google Cloud customer agreements.
+The assistant uses artificial intelligence tools hosted on Google Cloud, including Gemini services. Core buyer records are stored on Google Cloud in Australia under our enterprise customer agreements.
 
-When we process an enquiry we may send parts of your message to Google Gemini services so that the system can suggest a reply or update our internal buyer readiness score. For some Gemini services the processing may take place on Google Cloud global infrastructure rather than only within one Australian region. Under Google Cloud enterprise data protection commitments, customer prompts and outputs are treated as customer data, remain owned and controlled by the customer, and are not used to train public models without the customer’s permission. Further information about how Gemini for Google Cloud uses and protects customer data is available from Google at [Gemini for Google Cloud – Data Governance](https://cloud.google.com/gemini/docs/discover/data-governance).
+When you send us an enquiry, parts of your message may be processed by Google Gemini so the system can suggest a draft reply or update our internal buyer readiness score. Some Gemini services may process data on Google’s global infrastructure. Under Google Cloud’s enterprise data protection commitments, customer prompts and outputs remain customer data, stay under customer control, and are not used to train public AI models without explicit permission. Further information is available at “Gemini for Google Cloud – Data Governance”.
 
-We do not sell your personal information. We do not use your enquiries to train public AI models.
+We do not sell personal information. We do not use your enquiries to train public AI models.
 
-We design our system so that it does not need highly sensitive information in order to assist buyers.  
-Please do not include the following in your enquiry unless we specifically ask for it and provide a secure channel:
+Our system is designed so that it does not need highly sensitive personal information. Please do not include the following in your enquiry unless we specifically request it and provide a secure channel:
 
-* passwords or one time codes  
-* full bank or card numbers  
-* tax file numbers or other government identifiers  
-* detailed medical or health information  
-* information about criminal history that is not directly relevant to a property transaction  
+* passwords or one-time codes
+* full bank or card numbers
+* tax file numbers or other government identifiers
+* detailed medical or health information
+* criminal history information that is not directly relevant to a property transaction
 
-If you choose to provide this type of information in an email, it may still be captured in our buyer records and processed by our AI assisted tools for the limited purpose of assessing your enquiry and preparing our response. We take reasonable steps to protect that information from misuse, loss and unauthorised access or disclosure, consistent with our obligations under the Privacy Act 1988 (Cth) and the Australian Privacy Principles, including requirements for security and any cross border disclosure. Our internal governance of AI and privacy is informed by guidance from the Office of the Australian Information Commissioner on the use of commercially available AI products.
+If you include such information in your email, it may still be captured in our buyer records and processed by our AI-assisted tools solely for the purpose of assessing your enquiry and preparing a response. We apply layered safeguards including hard-coded filtering, detection of opt-out and unsafe content, geographic and intent checks, phone-number validation controls, and AI-prompt safety rules. We take reasonable steps to protect personal information from misuse, loss and unauthorised access or disclosure, consistent with the Privacy Act 1988 (Cth) and the Australian Privacy Principles. Our use of AI follows guidance from the Office of the Australian Information Commissioner on commercially available AI systems.
 
-Use of the Austrump Glen Virtual Assistant does not replace contact with a licensed real estate professional and does not by itself create a client adviser relationship. Content produced by the virtual assistant is general information only. It may not be complete, accurate or up to date and it does not take your full personal circumstances into account. It is not legal, financial, tax or investment advice. You should seek your own professional advice before you make decisions about buying, selling or financing property.
+The Virtual Assistant does not replace contact with a licensed real estate professional and does not create an adviser relationship. Content produced by the assistant is general information only. It may not be complete, accurate or up to date and does not take your full personal circumstances into account. It is not legal, financial, tax, valuation, settlement or investment advice. You should obtain independent professional advice before making decisions about buying, selling or financing property.
 
-Austrump Glen remains responsible for the way we handle your personal information, even when ARCSAGE TECHNOLOGY PTY LTD and Google Cloud provide technology services to us. Our use of AI is intended to support our staff, not replace our privacy obligations. Nothing in this section limits any rights you have under the Privacy Act 1988 (Cth) or the Australian Consumer Law.
+Austrump Glen remains responsible for how we handle your personal information, even when ARCSAGE TECHNOLOGY PTY LTD and Google Cloud provide technology services to us. Our use of AI is intended to support our staff, not replace our privacy obligations. Nothing in this notice limits your rights under the Privacy Act 1988 (Cth) or the Australian Consumer Law.
 
 You can contact us at austrump@arcsage.com.au if you have questions about how we use AI or if you wish to exercise your privacy rights.
-
